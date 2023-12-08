@@ -1,4 +1,4 @@
-# card-flip rotatat 180 degress
+# card-flip rotate 
 card-flip
 
 
